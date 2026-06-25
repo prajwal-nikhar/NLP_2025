@@ -1,6 +1,6 @@
 # AirPods Pro 2 — Sentiment Analysis & Customer Intelligence
 
-**Group 14:** Giridhar Sharma · Prajwal Vijay Nikhar · Ritik Tibrewal · Rohan Jain
+**Group 14:** · Prajwal Vijay Nikhar · Giridhar Sharma · Ritik Tibrewal · Rohan Jain
 
 A comprehensive Big Data study evaluating 8,300 customer reviews using NLP techniques to identify product strengths, weaknesses, and actionable business strategies.
 
